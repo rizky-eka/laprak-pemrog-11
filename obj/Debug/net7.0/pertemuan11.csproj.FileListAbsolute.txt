@@ -1,0 +1,15 @@
+/Users/rizky28eka/Development/git/laprak-pemrog-11/bin/Debug/net7.0/pertemuan11
+/Users/rizky28eka/Development/git/laprak-pemrog-11/bin/Debug/net7.0/pertemuan11.deps.json
+/Users/rizky28eka/Development/git/laprak-pemrog-11/bin/Debug/net7.0/pertemuan11.runtimeconfig.json
+/Users/rizky28eka/Development/git/laprak-pemrog-11/bin/Debug/net7.0/pertemuan11.dll
+/Users/rizky28eka/Development/git/laprak-pemrog-11/bin/Debug/net7.0/pertemuan11.pdb
+/Users/rizky28eka/Development/git/laprak-pemrog-11/obj/Debug/net7.0/pertemuan11.csproj.AssemblyReference.cache
+/Users/rizky28eka/Development/git/laprak-pemrog-11/obj/Debug/net7.0/pertemuan11.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rizky28eka/Development/git/laprak-pemrog-11/obj/Debug/net7.0/pertemuan11.AssemblyInfoInputs.cache
+/Users/rizky28eka/Development/git/laprak-pemrog-11/obj/Debug/net7.0/pertemuan11.AssemblyInfo.cs
+/Users/rizky28eka/Development/git/laprak-pemrog-11/obj/Debug/net7.0/pertemuan11.csproj.CoreCompileInputs.cache
+/Users/rizky28eka/Development/git/laprak-pemrog-11/obj/Debug/net7.0/pertemuan11.dll
+/Users/rizky28eka/Development/git/laprak-pemrog-11/obj/Debug/net7.0/refint/pertemuan11.dll
+/Users/rizky28eka/Development/git/laprak-pemrog-11/obj/Debug/net7.0/pertemuan11.pdb
+/Users/rizky28eka/Development/git/laprak-pemrog-11/obj/Debug/net7.0/pertemuan11.genruntimeconfig.cache
+/Users/rizky28eka/Development/git/laprak-pemrog-11/obj/Debug/net7.0/ref/pertemuan11.dll

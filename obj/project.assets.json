@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rizky28eka/pertemuan11/pertemuan11.csproj",
+      "projectUniqueName": "/Users/rizky28eka/Development/git/laprak-pemrog-11/pertemuan11.csproj",
       "projectName": "pertemuan11",
-      "projectPath": "/Users/rizky28eka/pertemuan11/pertemuan11.csproj",
+      "projectPath": "/Users/rizky28eka/Development/git/laprak-pemrog-11/pertemuan11.csproj",
       "packagesPath": "/Users/rizky28eka/.nuget/packages/",
-      "outputPath": "/Users/rizky28eka/pertemuan11/obj/",
+      "outputPath": "/Users/rizky28eka/Development/git/laprak-pemrog-11/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/rizky28eka/.nuget/NuGet/NuGet.Config"
